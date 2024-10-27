@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test_2</string>
+    <string name="title_home">Task 1</string>
+    <string name="title_dashboard">Task 2</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="nomPotEp">Середньодобова потужність МВт</string>
+    <string name="koefVik">Квадратичне відхилення</string>
+    <string name="koefReakPot">Вдосконалене квадратичне відхилення:</string>
+    <string name="price">Вартість електроенергії грн \ КВт * год:</string>
+</resources>
